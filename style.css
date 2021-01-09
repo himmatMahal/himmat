@@ -1,0 +1,45 @@
+#name_i{
+  padding-top: 1.414em;
+  padding-bottom: 1.414em;
+}
+
+#section2{
+  margin-top: 1.618em;
+  margin-bottom: 1.618em;
+}
+
+#section3{
+  margin-top: 1.618em;
+  margin-bottom: 1.618em;
+}
+
+#githubbtnnav{
+  margin-left: 1em;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+
+}
+
+#linkedinbtnnav{
+  margin-left: 1em;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+
+}
+
+#aboutme_ii{
+  margin-left: 4em;
+  margin-right: 4em;
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+.myphoto{
+  width: auto;
+  height: auto;
+}
+
+body{
+  /* background-color: #e9f2ef;  */
+  background-image: linear-gradient(180deg, #f8f9fa, #d5e0db);
+}
